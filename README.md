@@ -1,7 +1,7 @@
 ## Olá! Eu sou Marcos Paulo Fontes Feitosa
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como Fullstack
 - 🌱 Estudando ReactJS
 - 🚀 Atualmente estou dedicado a ir para o próximo nível
 
