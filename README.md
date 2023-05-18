@@ -1,9 +1,9 @@
-## Olá! Eu sou Marcos Paulo Fontes Feitosa
+## Hello! I am Marcos Paulo Fontes Feitosa.
 
 
-- 🔭 Hoje trabalho como Fullstack
-- 🌱 Estudando ReactJS
-- 🚀 Atualmente estou dedicado a ir para o próximo nível
+- 🔭 Fullstack Developer
+- 🌱 I’m currently learning NextJS and Typescript
+- 🚀 I'm currently dedicated to going to the next level
 
 <div align="center">
   <a href="https://github.com/marcospaulo12345">
@@ -13,7 +13,7 @@
 
 ##
 
-### Linguagens e frameworks que eu conheço e estudo
+### Languages and frameworks that i know and study
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,8 +24,10 @@
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcos-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Marcos-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Marcos-ndoe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
+  <img align="center" alt="Marcos-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Marcos-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Marcos-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Marcos-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
 </div>
 
 ##
